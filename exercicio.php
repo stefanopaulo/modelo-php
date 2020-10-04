@@ -22,7 +22,7 @@
 <main class="main">
     <div class="content">
         <?php
-            include("/{$_GET['dir']}/{$_GET['file']}.php")
+            include("{$_GET['dir']}/{$_GET['file']}.php")
         ?>
     </div>
 </main>
