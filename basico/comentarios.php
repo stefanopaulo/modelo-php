@@ -7,6 +7,7 @@
 // ?>
 
 <p>Depois do primeiro bloco!</p>
+<!-- <p>Cometário HTML</p> -->
 
 <?php
     /**
